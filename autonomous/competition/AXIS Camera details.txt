@@ -1,0 +1,11 @@
+ON FIELD
+http://10.28.40.21
+http://10.28.40.21/mjpg/video.mjpg
+
+DIRECT CONNECTION
+http://169.254.163.189
+http://169.254.163.189/mjpg/video.mjpg
+
+http://169.254.163.189/axis-cgi/mjpg/video.cgi
+
+switch

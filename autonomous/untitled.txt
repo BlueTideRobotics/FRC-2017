@@ -1,0 +1,10 @@
+http://axis-camera/axis-cgi/mjpg/video.cgi
+
+H 50-92
+s 0-98
+V 151-206
+
+
+http://wpilib.screenstepslive.com/s/4485/m/24194/l/672730-generating-code-from-grip
+http://wpilib.screenstepslive.com/s/4485/m/24194/l/674733-using-generated-code-in-a-robot-program
+https://wpilib.screenstepslive.com/s/4485/m/24194/l/669166-using-the-camera-server-on-the-roborio-2017

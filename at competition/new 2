@@ -1,0 +1,10 @@
+SmartDashboard::PutNumber("delay", timz.Get() - t_alignStart);
+			t_alignStart = timz.Get();
+
+			myRobot.ArcadeDrive(0.4, 0.0);
+			SmartDashboard::PutNumber("left out", left.Get());
+			SmartDashboard::PutNumber("right out", right.Get());
+
+			climber.Set(0.0);
+			gearCatch.Set(0.0);
+			//left.Set(left.Get()*1.3);

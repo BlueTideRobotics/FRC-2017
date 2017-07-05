@@ -1,0 +1,5 @@
+http://axis-camera/axis-cgi/mjpg/video.cgi
+
+H 50-92
+s 0-98
+V 151-206
